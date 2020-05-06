@@ -56,6 +56,14 @@ npm install wechaty-puppet-padplus@latest
 npm install qrcode-terminal
 ```
 
+因为本人项目中使用了mysql数据库以及导出excle，以下依赖可酌情添加
+
+```
+npm install mysql
+
+npm install node-excel-export
+```
+
 ##### 3.编写程序
 
 在当前目录中新建ts文件(文件名自定，此处本人使用mybot命名）拷贝以下代码
