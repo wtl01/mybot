@@ -2,7 +2,7 @@ import { Wechaty, Message, Contact, Friendship } from "wechaty";
 import { PuppetPadplus } from "wechaty-puppet-padplus";
 import {generate} from "qrcode-terminal"
 import {roomMessageHandle,personalMessageHandle} from "./util/message-utils"
-const token = 'puppet_padplus_6cdcc34e01814244'
+const token = 'your token'
 //定义群聊名称
 const puppet = new PuppetPadplus({
   token,
