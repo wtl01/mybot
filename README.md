@@ -1,4 +1,5 @@
 # mybot
+
 #### 1.特别鸣谢
 
 [![Powered by Wechaty](https://img.shields.io/badge/Powered%20By-Wechaty-green.svg)](https://github.com/chatie/wechaty)
@@ -119,6 +120,7 @@ node mybot.js
 ```
 
 执行完命名后出现二维码，说明项目运行成功，扫码登录即可，如果发现二维码混乱，无法扫描请将源代码中**samll:true**修改为**small:false**即可。
+<<<<<<< HEAD
 
 ##### 5.运行效果
 
@@ -129,3 +131,5 @@ node mybot.js
 2.统计结果
 
 ![https://upload-1258770845.cos.ap-chengdu.myqcloud.com/20200506113649.jpg](C:\Users\MR.W\Desktop\20200506113649.jpg)
+=======
+>>>>>>> 1cb1eba687dd06e6035ad2a886a5d09eec077dfa
