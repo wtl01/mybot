@@ -125,8 +125,8 @@ node mybot.js
 
 1.群聊统计
 
-![https://upload-1258770845.cos.ap-chengdu.myqcloud.com/20200506113639.jpg](C:\Users\MR.W\Desktop\20200506113639.jpg)
+![https://upload-1258770845.cos.ap-chengdu.myqcloud.com/20200506113639.jpg]()
 
 2.统计结果
 
-![https://upload-1258770845.cos.ap-chengdu.myqcloud.com/20200506113649.jpg](C:\Users\MR.W\Desktop\20200506113649.jpg)
+![https://upload-1258770845.cos.ap-chengdu.myqcloud.com/20200506113649.jpg]()
